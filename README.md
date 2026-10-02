@@ -52,12 +52,3 @@ cd XY-Knowledge-base
 ✅ 小型电商客服团队
 ✅ 内部FAQ、话术库、产品资料快速检索
 ✅ 轻量化内部知识库，不想部署复杂数据库
-
-## 📝 License
-> 可按需选择，自用一般写 MIT
-```
-MIT License
-Copyright (c) [年份] [你的名字]
-```
-
----
