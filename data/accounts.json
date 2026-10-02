@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "admini",
+      "password": "admini",
+      "role": "admin",
+      "createdAt": "2026-09-29 08:37:10"
+    }
+  ],
+  "applications": []
+}

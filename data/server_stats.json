@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-02",
+  "totalBytes": 142723,
+  "maxBps": 137269,
+  "maxBpsTime": "19:33:52",
+  "requests": 25,
+  "hourly": {
+    "19": 142723
+  }
+}
